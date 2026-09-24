@@ -1,0 +1,5 @@
+n,insertTimeNs,extractTimeNs,insertComparisons,extractComparisons,totalComparisons,nonDecreasing
+100,14416,36666,201,852,1053,true
+1000,31483,80733,2238,15001,17239,true
+10000,236241,738742,22683,216600,239283,true
+100000,1123175,6990274,228142,2831649,3059791,true
