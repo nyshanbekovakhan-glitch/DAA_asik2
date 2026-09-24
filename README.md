@@ -660,10 +660,11 @@ The test program completed successfully.
 
 The following screenshot shows the test results:
 
-![Uploading output.test.png…]()
+<img width="548" height="694" alt="output test" src="https://github.com/user-attachments/assets/30afeb53-edab-4f40-b73a-768a8785cb0b" />
 
 
-![Uploading outout.test2.png…]()
+<img width="382" height="394" alt="outout test2" src="https://github.com/user-attachments/assets/be6d00b0-c79a-44b3-b82e-7d1a86278cfa" />
+
 
 
 
