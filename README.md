@@ -28,14 +28,11 @@ The experiments use four workloads with different input sizes. Execution time an
 ```text
 assignment-2/
 ├── src/
-│   └── main/
-│       └── java/
-│           └── org.example/
-│               ├── DynamicArray.java
-│               ├── LinkedList.java
-│               ├── MinHeap.java
-│               ├── Benchmark.java
-│               └── Tests.java
+│       ├── DynamicArray.java
+│       ├── LinkedList.java
+│       ├── MinHeap.java
+│       ├── Benchmark.java
+│       └── Tests.java
 │
 ├── results/
 │   ├── tables/
