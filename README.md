@@ -680,6 +680,7 @@ All tests passed!
 The benchmark was executed for all four workloads.
 
 The following screenshot shows the benchmark execution:
+
 <img width="542" height="190" alt="output bench" src="https://github.com/user-attachments/assets/1b4c6b5a-cbb7-4b81-9a3a-dc9c804f9aae" />
 
 
