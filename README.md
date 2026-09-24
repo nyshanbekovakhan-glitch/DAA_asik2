@@ -659,8 +659,12 @@ The test program completed successfully.
 ### Test Output
 
 The following screenshot shows the test results:
+<img width="548" height="694" alt="output test" src="https://github.com/user-attachments/assets/30a5c412-5b5a-4ee7-bfc5-cf1184498e7b" />
 
-**Insert screenshot here**
+![Uploading outout.test2.png…]()
+
+
+
 
 ```text
 Passed: 33
@@ -673,8 +677,8 @@ All tests passed!
 The benchmark was executed for all four workloads.
 
 The following screenshot shows the benchmark execution:
+<img width="542" height="190" alt="output bench" src="https://github.com/user-attachments/assets/1b4c6b5a-cbb7-4b81-9a3a-dc9c804f9aae" />
 
-**Insert Benchmark output screenshot here**
 
 The benchmark generated four CSV result files:
 
@@ -722,7 +726,6 @@ The theoretical complexity and the measured workload should both be considered w
 ## 16. Conclusion
 
 This assignment demonstrated the relationship between theoretical algorithmic complexity and practical performance.
-
 Dynamic Array provided constant-time indexed access, while Linked List required traversal for indexed access.
 
 Both Dynamic Array and Linked List required linear search for `contains(value)` in the implemented structures.
