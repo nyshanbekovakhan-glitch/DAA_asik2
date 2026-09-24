@@ -659,7 +659,9 @@ The test program completed successfully.
 ### Test Output
 
 The following screenshot shows the test results:
-<img width="548" height="694" alt="output test" src="https://github.com/user-attachments/assets/30a5c412-5b5a-4ee7-bfc5-cf1184498e7b" />
+
+![Uploading output.test.png…]()
+
 
 ![Uploading outout.test2.png…]()
 
